@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-
-- 💬 Ask me about [https://www.remotemobprogramming.org](Remote Mob Programming)
-- 📫 How to reach me: [https://twitter.com/simonharrer](@simonharrer)
+- 💬 Ask me about [Remote Mob Programming](https://www.remotemobprogramming.org) or [GitOps](https://gitops.tech)
+- 📫 How to reach me: [@simonharrer](https://twitter.com/simonharrer)
 - 😄 Pronouns: he/him
 
 <!--
